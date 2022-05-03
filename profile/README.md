@@ -1,12 +1,14 @@
-## Hi there 👋
+Welcome to the Axera.Digital GitHub!
+========
 
-<!--
+Here you will find various sources from encryption and software security to automation and high-quality GUIs. All released projects are cleanly-coded, commented with beginners in mind, and compile ready! 
 
-**Here are some ideas to get you started:**
+The primary languages used are: 
+* C/C++ 
+* Python 
+* PHP 
+* HTML
+* CSS
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you need any help, just ask! Join our [forums](https://axera.digital/forums) or [Discord](https://axera.digital/discord),
+and become part of a well-meaning, friendly, and welcoming community.
